@@ -1,0 +1,9 @@
+[package]
+name = "solitairs"
+version = "0.1.0"
+authors = ["Cooper Johnson <lavosprime@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+cards = "1.1.2"
